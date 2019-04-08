@@ -7,6 +7,9 @@ All notable changes to this project will be documented in this file based on the
 
 ### Bugfixes
 
+### Improvements
+* Added `filter` to `GlobalAggregation` [#1624](https://github.com/ruflin/Elastica/pull/1624)
+
 ### Added
 
 ### Improvements
